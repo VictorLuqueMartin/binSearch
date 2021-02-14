@@ -2,11 +2,14 @@ This tool facilitates the search of the 6 digits of the Bincodes by pasting the 
 
 Requirements
 
-Have installed python
+ - Have installed python
 
-Have installed colorama --> pip install colorama 
+ - Have installed colorama --> pip install colorama 
 
 Execute program:
-Update the file tarjeta(.)txt with the list of cards that come to us.
-Update the files inside Bincodes directory
-Open the console and write buscarBin.py
+
+ - Update the file tarjeta(.)txt with the list of cards that come to us.
+ 
+ - Update the files inside Bincodes directory
+ 
+ - Open the console and write buscarBin.py
