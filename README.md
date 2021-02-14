@@ -3,7 +3,7 @@
 This tool facilitates the search of the 6 digits of the Bincodes by pasting the text in a document with txt extension.
 
 Requirements
-Have installed python
+Have installed python \n
 Have installed colorama --> pip install colorama 
 
 Execute program:
