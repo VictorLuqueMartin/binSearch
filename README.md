@@ -17,7 +17,7 @@ Requirements
 
 Execute program:
 
- - Update the file tarjeta(.)txt with the list of cards that come to us.
+ - Update the file tarjeta.txt with the list of cards that come to us.
  
  - Update the files inside Bincodes directory
  
